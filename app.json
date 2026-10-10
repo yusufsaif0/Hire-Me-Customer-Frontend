@@ -1,0 +1,21 @@
+{
+  "expo": {
+    "name": "Trusted Assistance Customer",
+    "slug": "trusted-assistance-customer",
+    "version": "0.1.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.trustedassistance.customer"
+    },
+    "android": {
+      "package": "com.trustedassistance.customer"
+    },
+    "web": {
+      "bundler": "metro",
+      "name": "Trusted Assistance | customer"
+    },
+    "plugins": ["expo-secure-store"]
+  }
+}
